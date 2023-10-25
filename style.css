@@ -191,3 +191,10 @@ header button {
   position: absolute;
   bottom: 12%;
 }
+
+.content-card h3 {
+  font-size: 2vw;
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+}

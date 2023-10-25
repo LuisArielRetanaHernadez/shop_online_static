@@ -146,7 +146,12 @@ header button {
   position: absolute;
   top: -50%;
   transform: skewY(345deg);
-  transition: all .2s;
+  transition: all .3s;
+}
+
+.card:hover::before { 
+  top: -70%;
+  transform: skewY(390deg);
 }
 
 .card .img-card {

@@ -53,3 +53,13 @@ a {
 .nav-enlaces a:hover { 
   border: 2px solid var(--color-primary);
 }
+
+/* Header */
+header {
+  width: 100%;
+  height: calc(100vh - 50px);
+  background-image: url(img/wallpaper2.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}

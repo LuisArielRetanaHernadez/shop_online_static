@@ -219,3 +219,13 @@ header button {
   top: 10px;
   opacity: 1;
 }
+
+/* Mensajes */
+
+.mensaje { 
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 400px;
+  background-image: url(img/section.jpg);
+}

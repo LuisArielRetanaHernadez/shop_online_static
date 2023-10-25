@@ -255,3 +255,22 @@ header button {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* Productos Destacados */
+
+.favorito {
+  height: 100vh;
+  padding: 20px 150px;
+  position: relative;
+}
+
+.imagen-fav {
+  width: 40%;
+  position: relative;
+}
+
+.imagen-fav img {
+  width: 100%;
+  height: 100%;
+  transition: all .3s;
+}

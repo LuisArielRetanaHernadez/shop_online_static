@@ -128,12 +128,20 @@ header button {
 }
 
 .card { 
-  position: relative;
   width: 33%;
   height: 420px;
+  position: relative;
   background-color: var(--color-three);
   overflow: hidden;
   border: none;
   float: left;
   margin: 1px;
+}
+
+.card .img-card {
+  width: 100%;
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }

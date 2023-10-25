@@ -126,3 +126,14 @@ header button {
 .productos { 
   padding: 30px 100px;
 }
+
+.card { 
+  position: relative;
+  width: 33%;
+  height: 420px;
+  background-color: var(--color-three);
+  overflow: hidden;
+  border: none;
+  float: left;
+  margin: 1px;
+}

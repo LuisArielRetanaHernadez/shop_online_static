@@ -223,11 +223,14 @@ header button {
 /* Mensajes */
 
 .mensaje { 
-  display: inline-block;
-  position: relative;
   width: 100%;
   height: 400px;
+  display: inline-block;
+  position: relative;
   background-image: url(img/section.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  margin-top: 50px;
 }
 
 .mensaje::before {

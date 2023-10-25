@@ -21,6 +21,22 @@ a {
   font-weight: 700;
 }
 
+.btn { 
+  background-color: var(--color-primary);
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all .2s;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  background-color: var(--color-scondary);
+}
+
 /* Menu Principal */
 .menu-principal {
   width: 100%;
@@ -91,18 +107,3 @@ header h1 {
   text-shadow: 5px 0 10px #000;
 }
 
-.btn { 
-  background-color: var(--color-primary);
-  color: #fff;
-  border: none;
-  font-size: 16px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  cursor: pointer;
-  transition: all .2s;
-}
-
-.btn:hover {
-  transform: scale(1.1);
-  background-color: var(--color-scondary);
-}

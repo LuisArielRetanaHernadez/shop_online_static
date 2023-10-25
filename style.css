@@ -11,3 +11,19 @@ body, * {
   --color-scondary: #0B5ED7;
   --color-three: #122936;
 }
+
+a {
+  text-decoration: none;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+/* Menu Principal */
+menu-primary {
+  width: 100%;
+  height: 50px;
+  background: #fff;
+  border-bottom: 1px solid #dedede;
+}

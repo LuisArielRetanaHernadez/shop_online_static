@@ -5,3 +5,9 @@ body, * {
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --color-primary: #0D6EFD;
+  --color-scondary: #0B5ED7;
+  --color-three: #122936;
+}

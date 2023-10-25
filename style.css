@@ -198,3 +198,11 @@ header button {
   font-weight: 600;
   letter-spacing: 1px;
 }
+
+.content-card .price { 
+  font-size: 30px;
+  color: #fff;
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}

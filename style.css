@@ -206,3 +206,16 @@ header button {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+.content-card .buy {
+  position: relative;
+  top: 200px;
+  opacity: 0;
+  padding: 10px 30px;
+  margin-top: 15px;
+}
+
+.card:hover .content-card .buy { 
+  top: 10px;
+  opacity: 1;
+}

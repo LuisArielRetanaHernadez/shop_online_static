@@ -274,3 +274,13 @@ header button {
   height: 100%;
   transition: all .3s;
 }
+
+.favorito::before {
+  content: 'Technology';
+  position: absolute;
+  bottom: 2%;
+  left: 0;
+  font-weight: 600;
+  font-size: 10vw;
+  color: rgba(0, 0, 0, 0.05);
+}

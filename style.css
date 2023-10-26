@@ -409,6 +409,10 @@ header button {
   width: 350px;
 }
 
+.search:hover .search-text {
+  width: 90%;
+} 
+
 .search-text { 
   width: 0;
   height: 100%;

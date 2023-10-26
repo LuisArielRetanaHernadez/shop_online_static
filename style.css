@@ -429,4 +429,5 @@ header button {
   top: 0;
   left: 0;
   line-height: 60px;
+  transition: .3s;
 }

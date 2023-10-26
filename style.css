@@ -295,3 +295,16 @@ header button {
   color: rgba(0, 0, 0, 0.05);
   z-index: -1;
 }
+
+.container-favorito {
+  display: flex;
+}
+
+.container-favorito > div { 
+  margin: 30px;
+}
+
+.content-fav {
+  width: 40%;
+  height: 100%;
+}

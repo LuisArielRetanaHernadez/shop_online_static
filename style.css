@@ -338,3 +338,15 @@ header button {
   font-size: 40px;
   font-weight: 400;
 }
+
+.content-fav h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 2px;
+  color: var(--color-scondary);
+}
+
+.content-fav p { 
+  text-align: justify;
+  margin: 20px 0;
+}

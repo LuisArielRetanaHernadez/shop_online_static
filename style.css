@@ -435,7 +435,7 @@ header button {
   cursor: pointer;
   position: absolute;
   top: 0;
-  left: 0;
+  right: 0;
   line-height: 60px;
   transition: .3s;
 }

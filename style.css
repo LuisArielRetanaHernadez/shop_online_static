@@ -370,3 +370,12 @@ header button {
   line-height: 50px;
   text-align: center;
 }
+
+/* Contactos */
+.suscribe { 
+  width: 100%;
+  height: 300px;
+  margin-top: 30px;
+  background-color: var(--color-three);
+  position: relative;
+}

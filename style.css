@@ -284,3 +284,14 @@ header button {
   font-size: 10vw;
   color: rgba(0, 0, 0, 0.05);
 }
+
+.favorito::after {
+  content: 'Best';
+  position: absolute;
+  top: 2%;
+  right: 0;
+  font-weight: 600;
+  font-size: 10vw;
+  color: rgba(0, 0, 0, 0.05);
+  z-index: -1;
+}

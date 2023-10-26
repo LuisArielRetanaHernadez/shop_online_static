@@ -289,6 +289,11 @@ header button {
   top: 0;
   left: 0;
   transform: rotate(-45deg);
+  transition: all .3s;
+}
+
+.imagen-fav:hover::before {
+  transform: rotate(-45deg) scale(1.2);
 }
 
 .favorito::before {

@@ -396,6 +396,7 @@ header button {
   width: 60px;
   height: 60px;
   padding: 10px;
+  border-radius: 50%;
   background-color: #e5e5e5;
   position: relative;
   top: 50%;

@@ -346,7 +346,7 @@ header button {
   color: var(--color-scondary);
 }
 
-.content-fav p { 
+.content-fav .text p { 
   text-align: justify;
   margin: 20px 0;
 }
@@ -362,4 +362,11 @@ header button {
   line-height: 50px;
   font-weight: 600;
   color: var(--color-three);
+}
+
+.content-inferior .buy {
+  float: right;
+  width: 150px;
+  line-height: 50px;
+  text-align: center;
 }

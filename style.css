@@ -333,3 +333,8 @@ header button {
 .container-favorito:hover .imagen-fav img { 
   transform: scale(1.1);
 }
+
+.content-fav h1 {
+  font-size: 40px;
+  font-weight: 400;
+}
